@@ -1,0 +1,28 @@
+body {
+    margin: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.avatar{
+    width: 150px;
+}
+
+.card {
+    padding: 20px;
+    display: flex;
+    margin: auto;
+    justify-content: space-around;
+    width: 400px;
+    text-align: center;
+    background-color: #cdb4db;
+    color: #2b2839;
+    border-bottom: 12px solid #ffafcc;
+    border-radius: 20px;
+    box-shadow: 8px 8px 4px #ffc8dd;
+}
+
+
+/* .border-blue {
+    border: 1px dotted orangered;
+    using shortcut cmd+k+c, you can comment
+} */
